@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web/App Development, Fitness & Finance
 - 🌱 I’m currently learning DSA, React Js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me by  Mail - ashutosh.developer10@gmail.com , Instagram - ig__ashuu__
+- 📫 How to reach me by  Mail - ashutosh.developer10@gmail.com
+-  Instagram - ig__ashuu__
+-  LeetCode - https://leetcode.com/u/AshuTosH_Satpathy/
 - 😄 Pronouns: He/Him
 
 
