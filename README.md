@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AshuTosh<br>👀 I’m interested in Web/App Development, Fitness & Finance<br>🌱 I’m currently learning DSA, React Js<br>💞️ I’m looking to collaborate on<br>📫 How to reach me by Mail - ashutosh.developer10@gmail.com<br>Instagram - ig__ashuu__<br>LeetCode - https://leetcode.com/u/AshuTosH_Satpathy/<br>😄 Pronouns: He/Him
+👋 Hi, I’m @AshuTosh<br>👀 I’m interested in Web/App Development, Fitness & Finance<br>🌱 I’m currently learning DSA, React Js<br>💞️ I’m looking to collaborate on<br>📫 How to reach me by Mail - ashutosh.developer10@gmail.com<br>Instagram - ig__ashuu__<br>/<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
